@@ -12,7 +12,6 @@ Nasci no Rio de janeiro e tenho 36 anos.
  
 ##Trabalho na Secretaria de Saúde e no projeto Include by Campus Party; que ensina robótica e automação para crianças e adolescente nas periferias do Rio de janeiro.
  
- 
- ##Meu linkedin
 
-[![LinkEdin](https://www.linkedin.com/in/alan-miranda-b1b705236)
+
+[![Linkedin](https://www.linkedin.com/in/alan-miranda-b1b705236)]
