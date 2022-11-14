@@ -13,6 +13,6 @@ Nasci no Rio de janeiro e tenho 36 anos.
 ##Trabalho na Secretaria de Saúde e no projeto Include by Campus Party; que ensina robótica e automação para crianças e adolescente nas periferias do Rio de janeiro.
  
  
- ##Love Homer
+ ##Meu linkedin
 
-![Meu linkedin]([https://linkDaimagem.jpg](https://www.tenhomaisdiscosqueamigos.com](https://www.linkedin.com/in/alan-miranda-b1b705236))
+!([https://linkDaimagem.jpg](https://www.tenhomaisdiscosqueamigos.com](https://www.linkedin.com/in/alan-miranda-b1b705236))
