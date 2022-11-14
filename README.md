@@ -14,4 +14,4 @@ Trabalho na Secretaria de Saúde e no projeto Include by Campus Party; que ensin
  ##Love Homer
 ![Animação_nova](https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/01/homer-simpson-gif.jpg)
 
-[![Meu linkedin](https://www.linkedin.com/in/alan-miranda-b1b705236/)
+[![Meu linkedin](https://www.linkedin.com/in/alan-miranda-b1b705236/)]
