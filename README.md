@@ -1,6 +1,6 @@
 #Portfolio de Alan Miranda 
 
-Olá, Sou instrutor de robótica , formado em analise e desenvolvimento , estudante de sistema da informação , desenvolvedor junior . 
+Olá, Sou instrutor de robótica , formado em analise e desenvolvimento , estudante de sistema da informação , desenvolvedor junior
 Nasci no Rio de janeiro e tenho 36 anos.
 
 #Atualmente estudo as linguagens:
