@@ -14,4 +14,4 @@ Nasci no Rio de janeiro e tenho 36 anos.
  
 
 
-[![Linkedin](https://media-exp1.licdn.com/dms/image/D4D08AQGBLTky9I6PFw/croft-frontend-shrinkToFit1024/0/1639511328722?e=2147483647&v=beta&t=LYK6H2NcQcztNUCE2u6njoiiOFmlsTTAOhq7ltTs0Qw)](https://www.linkedin.com/in/alan-miranda-b1b705236"Linkedin")
+[![Linkedin](https://thumbs.gfycat.com/CalmSpanishKoi-size_restricted.gif)](https://www.linkedin.com/in/alan-miranda-b1b705236"Linkedin")
