@@ -6,8 +6,11 @@ Nasci no Rio de janeiro e tenho 36 anos.
 ###Atualmente estudo as linguagens:
 
 -C#
+
 -Python
+
 -Sql 
+
 -Redes
  
 #Presto serviço ao Include by Campus Party; que ensina robótica e automação para crianças e adolescente nas periferias do Rio de janeiro.
