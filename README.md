@@ -17,4 +17,4 @@ Nasci no Rio de janeiro e tenho 36 anos.
  
 
 
-[![Linkedin](https://drive.google.com/file/d/1Su-Tn8dgEW-cCKYae1YlU5JbnpsBLrpv/view?usp=sharing)](https://www.linkedin.com/in/alan-miranda-b1b705236"Linkedin")
+[![Linkedin](https://alanmirandax.blogspot.com/2022/12/blog-post.html)](https://www.linkedin.com/in/alan-miranda-b1b705236"Linkedin")
