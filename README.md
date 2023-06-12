@@ -19,4 +19,4 @@ Nasci no Rio de janeiro e tenho 36 anos.
  
 
 
-[![Linkedin](https://blogger.googleusercontent.com/img/a/AVvXsEizpY9pNv2V4WSyufOBvFAhHCi4Vm5MS8cmEtkmzGnAF3Dps-J7Aegg6j6BoIqwsWVTK10M6KDArz3GHSp2AwRHgOCwwvGaqjovvBg9PV_LZhaQeeTcAuLW_j2VLFqtI0RrXtYYTbzAhw0pLayFl2mJ-jRVUBiJ5Y2M32h1dM4Yc-9K3GN8RuuTWyyF1w)](https://www.linkedin.com/alanmirandarj)
+[![Linkedin](https://blogger.googleusercontent.com/img/a/AVvXsEizpY9pNv2V4WSyufOBvFAhHCi4Vm5MS8cmEtkmzGnAF3Dps-J7Aegg6j6BoIqwsWVTK10M6KDArz3GHSp2AwRHgOCwwvGaqjovvBg9PV_LZhaQeeTcAuLW_j2VLFqtI0RrXtYYTbzAhw0pLayFl2mJ-jRVUBiJ5Y2M32h1dM4Yc-9K3GN8RuuTWyyF1w)](https://www.linkedin.com/in/alanmirandarj)
