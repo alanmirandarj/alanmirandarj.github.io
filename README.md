@@ -1,7 +1,8 @@
 #Portfolio de Alan Miranda 
 
-Olá me chamo Alan sou formado em ADS , estudante de sistema da informação e pós graduando em robótica educacional, atualmente trabalho como instrutor de robótica e automação e técnico especialista em equipamentos de xenograficos . 
-Nasci no Rio de janeiro e tenho 36 anos.
+Olá me chamo Alan sou formado em Sistema de informação, pós graduando em robótica educacional,instrutor de robótica e automação e técnico especialista em equipamentos de xerograficos . 
+Especialista em suporte remoto e atendimento "IN LOCO" ao cliente (N2 E N3).   
+Nasci no Rio de janeiro e tenho 36 anos e sou apaixonado por tecnologia e automação de processos e serviços.
 
 ###Atualmente estudo :
 
